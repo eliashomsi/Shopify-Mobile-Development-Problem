@@ -2,8 +2,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.ealhom.shopifymobileproblem.MainActivity" >
-    <item android:id="@+id/action_settings"
-        android:title="@string/action_settings"
+    <item android:id="@+id/start_application"
+        android:title="start application"
         android:orderInCategory="100"
         app:showAsAction="never" />
 </menu>
