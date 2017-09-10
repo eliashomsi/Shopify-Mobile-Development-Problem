@@ -5,8 +5,8 @@ This is a solution to the mobile development problem of shopify
 
 the answers are:
 
-the total amount spent by Napoleon Bayz is 200.6
-the total number of Awesome  Bronze Bags sold is 8
+*the total amount spent by Napoleon Bayz is 200.6
+*the total number of Awesome  Bronze Bags sold is 8
 
 
 # this app uses httpok library which is run as AsyncTask
